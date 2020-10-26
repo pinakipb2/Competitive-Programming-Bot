@@ -15,6 +15,8 @@ echo ""
 echo "Enter the number of Problems : "
 read prob
 echo ""
+if [ $prob -le 26 ]
+then
 echo "Logs : "
 mkdir "$name"
 cd "$name"
@@ -48,4 +50,8 @@ done
 echo ""
 echo "Process Completed Successfully !!"
 echo ""
+else
+echo "Enter a value between 1-26"
+echo ""
+fi
 echo "Thank You for using Competitive Programming BOT"
