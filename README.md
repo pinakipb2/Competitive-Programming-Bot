@@ -6,7 +6,7 @@
 
 ## Screenshots
 ### Script Running
-![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/script.png)
+![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/Main.png)
 ### File and Folder Structures
 ![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/file_structure_1.png)
 
