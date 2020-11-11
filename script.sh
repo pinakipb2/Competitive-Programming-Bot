@@ -1,6 +1,8 @@
 #!/bin/bash
 # Made by Pinaki Bhattacharjee
 
+ver=3.0
+
 printf '\e[9;1t'
 
 
@@ -60,7 +62,7 @@ cd "$name"
 touch "info.txt"
 cat > info.txt <<EOF
 
-Competitive Programming BOT
+Competitive Programming BOT v$ver
 
 ============================
 Made by PINAKI BHATTACHARJEE
