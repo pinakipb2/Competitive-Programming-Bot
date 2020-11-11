@@ -24,7 +24,7 @@
 ## Code to run:
 Open bash terminal and run the following command : 
 ```
-.\script.sh
+./script.sh
 ```
 
 ## Contributions
