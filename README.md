@@ -6,13 +6,13 @@
 
 ## Screenshots
 ### Script Running
-![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/Main.png)
+![Competitive Programming Bot](Images/Main.png)
 ### File and Folder Structures
-![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/file_structure_1.png)
+![Competitive Programming Bot](Images/file_structure_1.png)
 
-![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/file_structure_2.png)
+![Competitive Programming Bot](Images/file_structure_2.png)
 
-![Competitive Programming Bot](https://github.com/pinakipb2/Competitive-Programming-Bot/blob/master/Images/file_structure_3.png)
+![Competitive Programming Bot](Images/file_structure_3.png)
 
 
 ## Installation
@@ -36,3 +36,6 @@ Contributions are always **welcome and recommended**! Here is how:
 - Create a new branch
 - Make your changes
 - Create a pull request
+
+
+## Will be Decommissioned soon
